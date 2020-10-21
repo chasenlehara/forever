@@ -22,7 +22,7 @@
     "colors": "~0.6.2",
     "cliff": "~0.1.9",
     "flatiron": "~0.4.2",
-    "forever-monitor": "~1.5.1",
+    "forever-monitor": "~1.7.1",
     "nconf": "~0.6.9",
     "nssocket": "~0.5.1",
     "optimist": "~0.6.0",
